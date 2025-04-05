@@ -2,3 +2,4 @@
 #include <iostream>
 int main() { std::cout << "Hello, Advanced Git!" << std::endl; return 0; }
 // Add login simulation
+// Add helper function
