@@ -5,3 +5,4 @@ int main() { std::cout << "Hello, Advanced Git!" << std::endl; return 0; }
 // Add helper function
 int bug = "error"; // bad line for bisect
 // Fixed bug
+// TEMP: unfinished search function (was stashed)
