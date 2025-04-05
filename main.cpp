@@ -8,3 +8,4 @@ int bug = "error"; // bad line for bisect
 // TEMP: unfinished search function (was stashed)
 // Merge conflict resolved manually for search()
 // Logging improved for debugging
+// Commit squashed via interactive rebase
