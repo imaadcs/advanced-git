@@ -1,11 +1,13 @@
-// Simple project that says hello
 #include <iostream>
-int main() { std::cout << "Hello, Advanced Git!" << std::endl; return 0; }
-// Add login simulation
-// Add helper function
-int bug = "error"; // bad line for bisect
-// Fixed bug
-// TEMP: unfinished search function (was stashed)
-// Merge conflict resolved manually for search()
-// Logging improved for debugging
-// Commit squashed via interactive rebase
+
+int func1(int var) {
+  return var+1;
+}
+
+int main() { 
+  std::cout << "Hello, Advanced Git!" << std::endl;
+  
+  std::cout << func1(5) << std::endl;
+
+  return 0; 
+}
