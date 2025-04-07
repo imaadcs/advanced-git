@@ -9,4 +9,4 @@
 - Cherry-pick
 - Merge conflict resolution
 - Commit squashing
-
+- Git Tags (used in this last commit!)
